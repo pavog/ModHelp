@@ -61,6 +61,7 @@ dependencies {
     // dependencies go here
     compile group: 'com.jolbox', name: 'bonecp', version: '0.8.0.RELEASE'
     compile group: 'org.slf4j', name: 'slf4j-log4j12', version: '1.7.9'
+    compile group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1', { ext { fatJarExclude = true }}
 }
 
 processResources {
