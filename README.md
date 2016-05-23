@@ -1,4 +1,4 @@
-![ModHelp](https://github.com/pavog/ModHelp/logo.png)
+![ModHelp](https://github.com/pavog/ModHelp/blob/master/logo.png)
 =========
 
 ModHelp

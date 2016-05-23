@@ -1,0 +1,17 @@
+# +------------------------------------------------------+
+# <                  ModHelp By Paul Vogel               >
+# <                ---------------------                 >
+# <             Configuration for ModHelp v. 1.0         >
+# < See the ModHelp GitHub-Wiki before editing this file >
+# +------------------------------------------------------+
+
+# Please fill in your database credentials here
+# All other configurable options can be found in your
+# database config table and are configurable ingame.
+database:
+  host: "localhost"
+  port: 3306
+  database: "devtests"
+  username: "root"
+  password: ""
+  prefix: "mh_"

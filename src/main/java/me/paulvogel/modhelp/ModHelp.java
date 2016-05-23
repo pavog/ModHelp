@@ -4,14 +4,14 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class ModHelp extends JavaPlugin {
 
-  @Override
-  public void onEnable() {
-    System.out.println("Enabled ModHelp");
-  }
+    @Override
+    public void onEnable() {
+        this.getLogger().info("Enabled " + this.getDescription().getName() + " version " + this.getDescription().getVersion());
+    }
 
-  @Override
-  public void onDisable() {
-    System.out.println("Disabled ModHelp");
-  }
+    @Override
+    public void onDisable() {
+        this.getLogger().info("Disabled " + this.getDescription().getName() + " version " + this.getDescription().getVersion());
+    }
 
 }
