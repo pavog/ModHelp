@@ -5,7 +5,7 @@
 # < See the ModHelp GitHub-Wiki before editing this file >
 # +------------------------------------------------------+
 
-# Please fill in your database credentials here
+# Please fill in your mysql database credentials here
 # All other configurable options can be found in your
 # database config table and are configurable ingame.
 database:
