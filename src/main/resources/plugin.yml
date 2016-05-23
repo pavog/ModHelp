@@ -1,0 +1,7 @@
+name: ModHelp
+version: @version@-@apitype@-@apiversion@
+description: ModHelp Plugin
+authors: [Paul Vogel]
+website: https://github.com/pavog/ModHelp
+
+main: me.paulvogel.modhelp.ModHelp
